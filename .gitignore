@@ -1,0 +1,17 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Archivos temporales de vim
+*.swp
+*.swo
+.DS_Store
+
+# Por si se cuela algo de caché
+.cache/
+.local/
